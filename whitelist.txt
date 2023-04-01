@@ -1,0 +1,5 @@
+@@|www.steampowered.com^$important
+@@|api.steampowered.com^$important
+@@|client-download.steampowered.com^$important
+@@|steamcommunity-a.akamaihd.net^$important
+@@|steamcommunity.com^$important
